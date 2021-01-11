@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 73 72" style="enable-background:new 0 0 73 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#d11147;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#d11147;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="express_gift">
+	<g>
+		<circle class="st0" cx="59" cy="60" r="5"/>
+		<circle class="st0" cx="29" cy="60" r="5"/>
+		<path class="st0" d="M58,44v2c0,1.1,0.9,2,2,2h2"/>
+		<path class="st0" d="M64,60h3c0.6,0,1-0.4,1-1v-9.6c0-0.9-0.3-1.8-0.9-2.5l-5.7-7c-1.5-1.9-3.8-2.9-6.2-2.9H52v14H19v8
+			c0,0.6,0.4,1,1,1h4"/>
+		<line class="st0" x1="35" y1="60" x2="54" y2="60"/>
+	</g>
+	<g id="gift_1_">
+		<path class="st1" d="M50,16H14c-1.1,0-2,0.9-2,2v6h40v-6C52,16.9,51.1,16,50,16z"/>
+		<g>
+			<path class="st0" d="M33,16c0,0-9,0-9.5,0c-3,0-5.5-2.5-5.5-5.5S20.5,5,23.5,5c3.4,0,4.4,2.3,6.2,5.1C30.9,12,33,16,33,16z"/>
+			<path class="st1" d="M33,16c0,0,2-4.1,2.5-5.1c1-2,2.5-3.9,5-3.9C43,7,45,9,45,11.5S43,16,40.5,16C40,16,33,16,33,16z"/>
+		</g>
+		<path class="st0" d="M33,16c0,0-4,20,3,35"/>
+		<line class="st0" x1="15" y1="27.6" x2="15.5" y2="32"/>
+		<line class="st0" x1="52" y1="47.4" x2="49.9" y2="24.4"/>
+		<line class="st0" x1="16.6" y1="46" x2="17.1" y2="50.5"/>
+		<line class="st0" x1="15.9" y1="37" x2="16.2" y2="41"/>
+	</g>
+	<g>
+		<line class="st0" x1="6" y1="33" x2="19" y2="33"/>
+		<line class="st0" x1="11" y1="42" x2="24" y2="42"/>
+		<line class="st0" x1="6" y1="51" x2="13" y2="51"/>
+	</g>
+</g>
+</svg>
