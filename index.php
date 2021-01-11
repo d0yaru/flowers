@@ -200,7 +200,7 @@
 	<div class="wrapper">
 		<div class="tovs">
 									
-			<div class="tov tov-0">
+			<!--<div class="tov tov-0">
 				 <a href="букеты/букет-дня-серенада/index.htm" class="buket-name-link buket-info" rel="288">Букет дня Серенада                                    <span class="page_t_h1">
                                     		<span>
                                        
@@ -875,10 +875,10 @@
                                 
 									<div class="labl labl2">новинка</div>
 							</div>
-			</div>
+			</div>--><?php include "php/products.php"; ?>
 						
 		</div>
-				<div class="pagenavi">
+				<!--<div class="pagenavi">
 						
 																		<span class="current">1</span>
 																				<a href="#" class="buket-paginator-page" data-page="1">2</a>
@@ -888,7 +888,7 @@
 				<a href="#" class="buket-paginator-page" data-page="6">7</a>
 						
 						<a href="#" class="next buket-paginator-next"></a>
-					</div>
+					</div>-->
 		<div class="btn-more"><a href="#" class="btn" id="btn-more">Показать еще</a></div>
 				<input type="hidden" id="mpages" value="49">
 	</div>
